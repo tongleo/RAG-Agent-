@@ -88,5 +88,3 @@
 3. 加入 agent：把上一步作为工具封装，使用 LangChain agents 或 AutoGen 自动化任务与工具调用；生产化时用 Haystack + Milvus/Weaviate 作为后端。
 
 ---
-
-如果你想要我把这份 README 直接发布为 Gist 或 新建仓库并提交其它文件（例如示例 notebook、部署脚本），我也可以继续帮你添加。
